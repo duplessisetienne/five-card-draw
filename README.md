@@ -82,11 +82,3 @@ For Mac, run:
 ```sh
 ./five-card-draw console
 ```
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this description further to better fit your project's specifics.
